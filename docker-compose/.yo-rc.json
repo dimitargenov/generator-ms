@@ -1,0 +1,10 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["gateway", "generator", "live", "stats"],
+    "directoryPath": "../",
+    "jhipsterVersion": "8.11.0",
+    "jwtSecretKey": "ZDFhZWM1NGU2MTEyOWMyMmYwMjUyZmI5YmRjMTg5OWU5MGY5NTU3MGY0NDJkZjAzMzE1NTQ5YWU1MWVlZjlmYTk3NDZkNTgzZDg5OTU1YzU1OThmNjg3MTc3ZDUyYmI1ZGZlNw==",
+    "monitoring": "prometheus",
+    "serviceDiscoveryType": "consul"
+  }
+}
